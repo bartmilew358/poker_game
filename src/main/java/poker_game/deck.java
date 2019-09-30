@@ -1,6 +1,6 @@
 package poker_game;
 //
-public enum deck {
+public enum deck     {
 
     card1("2", "c", 2),
     card2("2", "d", 2),
